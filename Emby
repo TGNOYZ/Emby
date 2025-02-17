@@ -1,0 +1,212 @@
+# SaturDay.Premium  
+DOMAIN-SUFFIX,emby.saturday.video  
+
+# SaturDay.Lite  
+DOMAIN-SUFFIX,lite.saturday.video  
+
+# 众筹服  
+DOMAIN-SUFFIX,pemby.127255.best  
+DOMAIN-SUFFIX,pemby.127066.xyz  
+DOMAIN-SUFFIX,raisemby.com  
+
+# PandaTV  
+DOMAIN-SUFFIX,pdatv.cc  
+DOMAIN-SUFFIX,cdn.pdatv.cc  
+IP-CIDR,154.9.233.198/32,no-resolve  
+
+# 股东专享服  
+IP-CIDR,115.231.235.49/32,no-resolve  
+
+# 飞跃地平线  
+DOMAIN-SUFFIX,cdn.123456.buzz  
+IP-CIDR,110.40.78.39/32,no-resolve  
+DOMAIN-SUFFIX,123456.buzz  
+DOMAIN-SUFFIX,zhuoyue.de  
+
+# 飞跃彩虹  
+DOMAIN-SUFFIX,7777777.buzz  
+IP-CIDR,193.122.114.13/32,no-resolve  
+DOMAIN-SUFFIX,581658.best  
+
+# 飞跃银河  
+DOMAIN-SUFFIX,yhemby.top  
+
+# DimLight  
+DOMAIN-SUFFIX,emby.dimlight.top  
+DOMAIN-SUFFIX,dimlightemby.cynn.top  
+IP-CIDR,43.137.0.29/32,no-resolve  
+
+# Levilde Luminia   
+DOMAIN-SUFFIX,itsmyduty.top
+DOMAIN-SUFFIX,levilde.clun.top  
+
+# 蘑菇硬盘  
+DOMAIN-SUFFIX,mm.yeahfast.com  
+
+# 蘑菇公费  
+DOMAIN-SUFFIX,wf.vban.xyz  
+
+# 见手青  
+DOMAIN-SUFFIX,jsq.mooguu.xyz  
+
+# 映月  
+DOMAIN-SUFFIX,985211.link  
+
+# AlphaTV-PRO  
+IP-CIDR,222.186.169.25/32,no-resolve  
+
+# AlphaTV海外服  
+DOMAIN-SUFFIX,alphatvapp.top  
+IP-CIDR,107.181.226.66/32,no-resolve  
+IP-CIDR,154.40.33.88/32,no-resolve  
+IP-CIDR,154.29.159.230/32,no-resolve  
+IP-CIDR,148.135.94.8/32,no-resolve  
+IP-CIDR,103.197.185.84/32,no-resolve  
+
+# 明天倒闭  
+DOMAIN-SUFFIX,sexemby.com  
+DOMAIN-SUFFIX,emby-db-jp.vfing.de  
+
+# peach_私服  
+DOMAIN-SUFFIX,embymv.top  
+
+# peach_公益服  
+DOMAIN-SUFFIX,embymv.link  
+
+# Nanflix-JP  
+DOMAIN-SUFFIX,vip.nanflix.net  
+
+# Nanflix-US  
+DOMAIN-SUFFIX,us.nanflix.net  
+
+# PopC  
+DOMAIN-SUFFIX,fxw111.cn  
+
+# TeCar  
+DOMAIN-SUFFIX,carlos.trade   
+
+# Lyrebird  
+DOMAIN-SUFFIX,lyrebirdemby.com  
+IP-CIDR,188.172.228.65/32,no-resolve  
+
+# July  
+DOMAIN-SUFFIX,july-hk.vfing.de  
+DOMAIN-SUFFIX,july-us.vfing.de  
+DOMAIN-SUFFIX,july.vfing.de  
+
+# CoCo_No.1  
+DOMAIN-SUFFIX,583765.xyz  
+
+# CoCo_No.2  
+DOMAIN-SUFFIX,259772.xyz  
+
+# 派大星的豪华城堡  
+DOMAIN-SUFFIX,811861.xyz  
+
+# POLO  
+DOMAIN-SUFFIX,poloemby.xyz  
+
+# ZZK  
+DOMAIN-SUFFIX,spls.vip  
+
+# 墨云阁  
+DOMAIN-SUFFIX,mobaiemby.site  
+DOMAIN-SUFFIX,emby-myg-de.vfing.de  
+
+# 起点站  
+DOMAIN-SUFFIX,favoritewife.com  
+DOMAIN-SUFFIX,qdz-sg.vfing.de  
+DOMAIN-SUFFIX,qdz-hk-0.vfing.de  
+DOMAIN-SUFFIX,qdz-hk-1.vfing.de  
+DOMAIN-SUFFIX,qidian.ocdlive.com  
+DOMAIN-SUFFIX,qdz-de.vfing.de  
+
+# 起点站网盘  
+DOMAIN-SUFFIX,free.28.al  
+
+# Temby  
+DOMAIN-SUFFIX,285286.xyz  
+
+# nyamedia  
+DOMAIN-SUFFIX,bangumi.ca  
+
+# 牢大科蜜直升机餐厅  
+DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk  
+DOMAIN-SUFFIX,emby-mica-hk3-v4.mius.uk  
+
+# 二次元emby  
+DOMAIN-SUFFIX,nijigem.by  
+DOMAIN-SUFFIX,cdn.bgp.yt  
+
+# 水母Emby  
+DOMAIN-SUFFIX,jellyfin.asia  
+
+# 月饼  
+DOMAIN-SUFFIX,emby.my  
+
+# 鹅服  
+DOMAIN-SUFFIX,cavps.eu.org  
+IP-CIDR,50.114.55.29/32,no-resolve  
+IP-CIDR,137.220.37.248/32,no-resolve  
+
+# 探花 TV  
+DOMAIN-SUFFIX,tanhuatv.site  
+
+# 叔服  
+DOMAIN-SUFFIX,mcjoker.xyz  
+
+# Cimmera  
+DOMAIN-SUFFIX,alien666.me  
+
+# Stupid melon🍉  
+DOMAIN-SUFFIX,1024.name  
+
+# 鸽巢  
+DOMAIN-SUFFIX,doven.tv  
+
+# hkaemby  
+DOMAIN-SUFFIX,aliz.work  
+
+# Aurora ✨  
+DOMAIN-SUFFIX,auroramedia.vip  
+
+# JingzhePro  
+DOMAIN-SUFFIX,jingzhe.pro  
+
+# Nebula Media  
+DOMAIN-SUFFIX,nebula-media.org  
+
+# 稳健服  
+DOMAIN-SUFFIX,wenjian.de  
+
+# CharonTV  
+DOMAIN-SUFFIX,charontv.com  
+
+# Kiku Emby  
+IP-CIDR,135.180.189.141/32,no-resolve  
+
+# 比比BeeBI  
+DOMAIN-SUFFIX,beebi.org  
+
+# 流星 EMBY  
+DOMAIN-SUFFIX,060618.me  
+
+# MICU Cloud Media  
+DOMAIN-SUFFIX,micu.hk  
+
+# 未响音乐服
+DOMAIN-SUFFIX,music.mefun.org
+
+# ikun
+DOMAIN-SUFFIX,music.xxxh.de
+
+# 音海拾贝
+DOMAIN-SUFFIX,makifx.com
+
+# 其他
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,fast.vfing.de
+IP-CIDR,129.146.180.116/32,no-resolve
+IP-CIDR,100.42.230.169/32,no-resolve
+IP-CIDR,146.235.214.2/32,no-resolve
+IP-CIDR,135.181.134.46/32,no-resolve
