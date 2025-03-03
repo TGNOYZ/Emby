@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,jsq.mooguu.xyz
 # 映月  
 DOMAIN-SUFFIX,985211.link  
 
+# 硬看整晚
+DOMAIN-SUFFIX,cancanbi.com
+
 # AlphaTV-PRO  
 IP-CIDR,222.186.169.25/32,no-resolve  
 
