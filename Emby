@@ -67,7 +67,8 @@ IP-CIDR,148.135.94.8/32,no-resolve
 IP-CIDR,103.197.185.84/32,no-resolve  
 
 # AlphaTVX
-IP-CIDR,95.211.168.246/32,no-resolve
+
+
 # 明天倒闭  
 DOMAIN-SUFFIX,sexemby.com  
 DOMAIN-SUFFIX,emby-db-jp.vfing.de  
