@@ -155,6 +155,9 @@ DOMAIN-SUFFIX,sthk.sttss.de
 # 月饼  
 DOMAIN-SUFFIX,emby.my  
 
+# Youno's Emby
+DOMAIN-SUFFIX,younoyes.com
+
 # 鹅服  
 DOMAIN-SUFFIX,cavps.eu.org  
 IP-CIDR,50.114.55.29/32,no-resolve  
