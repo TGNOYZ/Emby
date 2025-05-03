@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,makifx.com
 DOMAIN-SUFFIX,114514.quest
 
 # 其他
+DOMAIN-SUFFIX,meowfly.de
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,fast.vfing.de
 IP-CIDR,129.146.180.116/32,no-resolve
