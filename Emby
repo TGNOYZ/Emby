@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,pemby.127066.xyz
 DOMAIN-SUFFIX,raisemby.com  
 
 # PandaTV  
-DOMAIN-SUFFIX,pdatv.cc  
-DOMAIN-SUFFIX,cdn.pdatv.cc  
+DOMAIN-SUFFIX,pdtvs.de  
+DOMAIN-SUFFIX,pandtv.de  
 IP-CIDR,154.9.233.198/32,no-resolve  
 
 # 股东专享服  
