@@ -17,6 +17,7 @@ IP-CIDR,154.9.233.198/32,no-resolve
 
 # 股东专享服  
 IP-CIDR,115.231.235.49/32,no-resolve  
+DOMAIN-SUFFIX,feiyue.lol
 
 # 飞跃地平线  
 DOMAIN-SUFFIX,cdn.123456.buzz  
